@@ -2,7 +2,7 @@
 This guide provides an in-depth technical overview of Large Language Models (LLMs), their functionality, and their role in SAP Generative AI. The information presented here will serve as a resource for those preparing for the C_AIG_2412: SAP Generative AI Developer certification exam, which requires a solid understanding of AI-driven systems, including LLMs.
 
 ## Table of Contents
-1. [Introduction to Large Language Models (LLMs)](#introduction-to-large-language-models-llms)
+1. [Introduction to Large Language Models (LLMs)](#1. Introduction to Large Language Models (LLMs))
 2. [Types of Large Language Models](#types-of-large-language-models)
 3. [How LLMs Work](#how-llms-work)
 4. [Applications of LLMs in SAP](#applications-of-llms-in-sap)
