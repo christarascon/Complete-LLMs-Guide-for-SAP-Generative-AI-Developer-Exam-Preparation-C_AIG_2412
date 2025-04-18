@@ -1,0 +1,16 @@
+SAP’s **Generative AI framework** provides an environment to integrate LLMs with existing SAP technologies. Follow these steps to integrate LLMs effectively:
+
+### 1. **Determine the Use Case**
+   - Identify the specific problem or use case where LLMs can be deployed (e.g., automating report generation, creating conversational interfaces, or providing intelligent business insights).
+
+### 2. **Choose the Right Model**
+   - Select a model that aligns with the use case, such as GPT for text generation or BERT for understanding text.
+
+### 3. **Data Preparation**
+   - Clean and preprocess the data required for training and fine-tuning. SAP systems handle vast amounts of business data, so it’s crucial to filter and organize this data.
+
+### 4. **Fine-tuning the Model**
+   - Fine-tune the selected LLM on domain-specific data to improve its relevance and accuracy for the SAP-specific use case.
+
+### 5. **Deploy the Model**
+   - Integrate the fine-tuned model into SAP’s cloud infrastructure, ensuring seamless interaction with other SAP services and platforms.
