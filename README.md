@@ -14,4 +14,4 @@ This guide provides an in-depth technical overview of Large Language Models (LLM
 1. **[SAP Help Portal](https://help.sap.com)**
 2. **[SAP Community](https://community.sap.com/)**
 3. **[SAP Training and Certification Shop](https://training.sap.com/)**
-5. **ERPPrep's Practice Test**: [ERPPrep](https://www.erpprep.com/others/c-sec-2405-sap-security-administrator)
+5. **[ERPPrep](https://www.erpprep.com/others/c-sec-2405-sap-security-administrator)**
