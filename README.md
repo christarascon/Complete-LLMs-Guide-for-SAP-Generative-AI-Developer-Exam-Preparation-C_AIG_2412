@@ -16,4 +16,4 @@ This guide provides an in-depth technical overview of Large Language Models (LLM
 2. **Introduction to Transformers**: [Transformers for NLP - Arxiv](https://arxiv.org/abs/1706.03762)
 3. **GPT-3 Paper by OpenAI**: [GPT-3 Paper](https://arxiv.org/abs/2005.14165)
 4. **BERT Paper by Google**: [BERT Paper](https://arxiv.org/abs/1810.04805)
-5. **ERPPrep**: 
+5. **ERPPrep's Practice Test**: [ERPPrep](https://www.erpprep.com/others/c-sec-2405-sap-security-administrator)
