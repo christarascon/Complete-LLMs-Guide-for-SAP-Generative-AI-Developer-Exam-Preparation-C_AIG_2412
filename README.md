@@ -11,8 +11,7 @@ This guide provides an in-depth technical overview of Large Language Models (LLM
 7. [Key Concepts to Focus on for the C_AIG_2412 Exam](https://github.com/christarascon/Complete-LLMs-Guide-for-SAP-Generative-AI-Developer-Exam-Preparation-C_AIG_2412/blob/main/7.%20Key%20Concepts%20to%20Focus%20on%20for%20the%20C_AIG_2412%20Exam)
 
 ## For additional information and to deepen your knowledge, refer to the following resources:
-1. **SAP Generative AI Documentation**: [SAP AI Documentation](https://help.sap.com/viewer/product/SAP_GENERATIVE_AI)
-2. **Introduction to Transformers**: [Transformers for NLP - Arxiv](https://arxiv.org/abs/1706.03762)
-3. **GPT-3 Paper by OpenAI**: [GPT-3 Paper](https://arxiv.org/abs/2005.14165)
-4. **BERT Paper by Google**: [BERT Paper](https://arxiv.org/abs/1810.04805)
+1. **[SAP Help Portal](https://help.sap.com)**
+2. **[SAP Community](https://community.sap.com/)**
+3. **[SAP Training and Certification Shop](https://training.sap.com/)**
 5. **ERPPrep's Practice Test**: [ERPPrep](https://www.erpprep.com/others/c-sec-2405-sap-security-administrator)
