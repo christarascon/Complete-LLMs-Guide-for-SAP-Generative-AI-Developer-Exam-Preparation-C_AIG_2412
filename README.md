@@ -1,5 +1,5 @@
 # Complete-LLMs-Guide-for-SAP-Generative-AI-Developer-Exam-Preparation-C_AIG_2412
-This guide provides an in-depth technical overview of **Large Language Models (LLMs)**, their functionality, and their role in **SAP Generative AI**. The information presented here will serve as a resource for those preparing for the **C_AIG_2412: SAP Generative AI Developer** certification exam, which requires a solid understanding of AI-driven systems, including LLMs.
+This guide provides an in-depth technical overview of Large Language Models (LLMs), their functionality, and their role in SAP Generative AI. The information presented here will serve as a resource for those preparing for the C_AIG_2412: SAP Generative AI Developer certification exam, which requires a solid understanding of AI-driven systems, including LLMs.
 
 ## Table of Contents
 1. [Introduction to Large Language Models (LLMs)](#introduction-to-large-language-models-llms)
