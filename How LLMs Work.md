@@ -1,0 +1,20 @@
+At the core of most LLMs is the **Transformer Architecture**, which allows the model to process and generate text in an efficient and highly parallel manner. The key elements involved in making LLMs work are:
+
+### 1. **Input Tokenization**
+   - LLMs take text input and break it down into smaller components called tokens. These tokens are essentially words, characters, or subwords.
+   
+### 2. **Embeddings**
+   - Tokens are then mapped to **embeddings**, which are vector representations of the words in a higher-dimensional space. These embeddings capture semantic relationships between words.
+
+### 3. **Attention Mechanism**
+   - The **self-attention mechanism** is the hallmark of transformer models. It allows the model to weigh the importance of each token relative to others in a sentence, enabling it to understand context and relationships over long distances in text.
+
+### 4. **Feed-Forward Neural Networks**
+   - After attention, the model passes the information through a series of feed-forward networks to make predictions or generate text.
+
+### 5. **Pre-training and Fine-tuning**
+   - **Pre-training**: LLMs are first trained on a large, diverse corpus of text data, learning general language patterns.
+   - **Fine-tuning**: After pre-training, the models are fine-tuned on more specific data, making them suitable for targeted applications like chatbots, customer support, or SAP-specific tasks.
+
+### 6. **Output Generation**
+   - Once the model has been trained and fine-tuned, it can generate text by predicting the next token based on the context provided by the previous tokens. This process continues until the model has generated the complete output.
