@@ -1,0 +1,16 @@
+When preparing for the **C_AIG_2412: SAP Generative AI Developer** exam, ensure a solid understanding of the following concepts:
+
+### 1. **Understanding the Transformer Architecture**
+   - Know the key components of transformer models like **attention mechanisms** and **feed-forward neural networks**.
+
+### 2. **Pre-training vs. Fine-tuning**
+   - Grasp the difference between pre-training LLMs on massive datasets and fine-tuning them for specific tasks.
+
+### 3. **Application Areas for LLMs in SAP**
+   - Understand how LLMs can be leveraged for tasks like **Conversational AI**, **Code Generation**, and **Data Analysis** within the SAP ecosystem.
+
+### 4. **Model Optimization Techniques**
+   - Learn about techniques to optimize LLMs, such as **distillation**, **pruning**, and **quantization**, to make them more efficient in enterprise environments.
+
+### 5. **Security and Ethical Considerations**
+   - Study how to address ethical issues such as **bias** and **data privacy** when deploying LLMs in SAP projects.
