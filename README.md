@@ -10,3 +10,10 @@ This guide provides an in-depth technical overview of Large Language Models (LLM
 6. [Integrating LLMs with SAP's Generative AI Framework](#integrating-llms-with-saps-generative-ai-framework)
 7. [Key Concepts to Focus on for the C_AIG_2412 Exam](#key-concepts-to-focus-on-for-the-c_aig_2412-exam)
 8. [Further Reading and References](#further-reading-and-references)
+
+## For additional information and to deepen your knowledge, refer to the following resources:
+1. **SAP Generative AI Documentation**: [SAP AI Documentation](https://help.sap.com/viewer/product/SAP_GENERATIVE_AI)
+2. **Introduction to Transformers**: [Transformers for NLP - Arxiv](https://arxiv.org/abs/1706.03762)
+3. **GPT-3 Paper by OpenAI**: [GPT-3 Paper](https://arxiv.org/abs/2005.14165)
+4. **BERT Paper by Google**: [BERT Paper](https://arxiv.org/abs/1810.04805)
+5. **ERPPrep**: 
